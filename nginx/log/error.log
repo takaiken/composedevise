@@ -110,3 +110,12 @@
 2021/08/02 00:35:55 [notice] 1#1: start worker processes
 2021/08/02 00:35:55 [notice] 1#1: start worker process 25
 2021/08/02 00:35:55 [notice] 1#1: start worker process 26
+2021/08/05 23:53:43 [warn] 1#1: conflicting server name "localhost" on 0.0.0.0:80, ignored
+2021/08/05 23:53:43 [notice] 1#1: using the "epoll" event method
+2021/08/05 23:53:43 [notice] 1#1: nginx/1.21.1
+2021/08/05 23:53:43 [notice] 1#1: built by gcc 8.3.0 (Debian 8.3.0-6) 
+2021/08/05 23:53:43 [notice] 1#1: OS: Linux 5.10.25-linuxkit
+2021/08/05 23:53:43 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2021/08/05 23:53:43 [notice] 1#1: start worker processes
+2021/08/05 23:53:43 [notice] 1#1: start worker process 32
+2021/08/05 23:53:43 [notice] 1#1: start worker process 33
